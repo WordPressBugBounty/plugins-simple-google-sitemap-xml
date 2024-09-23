@@ -1,0 +1,1 @@
+# plugins-simple-google-sitemap-xml
